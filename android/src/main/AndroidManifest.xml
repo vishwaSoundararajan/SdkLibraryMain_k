@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.librarysdk">
+  <application>
+    <meta-data
+      android:name="resulticks.key"
+      android:value="api_key_b78db6b3-9462-4132-a4d3-894db10b3782" />
+  </application>
+</manifest>
